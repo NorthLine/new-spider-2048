@@ -22,4 +22,4 @@ node demo.js
 
 # 改写 直接执行的demo 爬取2048动态图
 
-## 基于https://github.com/Li-mengbo/Reptilian  实现
+## 基于https://github.com/Li-mengbo/Reptilian  实现的 
