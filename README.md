@@ -19,3 +19,6 @@ node demo.js
 /index返回取到json
 <br/>
 /index.html在网页上显示图片
+
+# 改写 直接执行的demo 爬取2048动态图
+
